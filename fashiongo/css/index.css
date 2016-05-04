@@ -1,0 +1,171 @@
+
+
+
+/*banner的css*/
+#banner{
+    height: 880px;overflow: hidden;
+}
+
+#banner_l{
+    width: 462px;height: 880px;float: left;
+}
+#big_pic{
+    margin-bottom: 1px;height: 549px
+}
+.line{
+    width: 100%;height: 2px;background: black;
+}
+#banner_c{
+    margin: 0 1px;width: 481px;height: 880px;float: left
+}
+#banner_c div{
+    float: left;
+}
+#banner_c .c_left{
+    margin-right: 1px;
+}
+/*content大内容的css*/
+#banner_r{
+    float: right;width:240px; 
+}
+#content{
+    height: 11516px; margin-bottom: 75px;
+}
+#con1{
+    height: 325px;background: white;padding-top: 55px    
+}
+#carousel_fig{
+    width: 1108px;height: 220px;margin: 0 auto;position: relative;
+}
+#lunbo{
+    width: 1108px;height: 220px;position: relative;overflow: hidden
+}
+#carousel_fig ul{
+    height: 220px;position: absolute;left: 0;top: 0;
+}
+#carousel_fig ul li{
+    float: left;margin-right: 2px;
+}
+#carousel_fig ul .lis_cf{
+    margin: 0
+}
+#carousel_fig ul .lis0{
+    
+}
+#turnL{
+    display: block;position: absolute;left: -24px;top: 82px;width: 24px;height: 57px
+}
+#turnR{
+    display: block;position: absolute;right: -24px;top: 82px;width: 12px;height: 57px
+}
+#more_recom{
+    position: absolute;width: 474px;height: 420px;right: 0;top:25px;border: 1px solid gray;padding: 4px;display: none;background: white
+}
+#more_recom ul{
+    overflow: hidden
+}
+#more_recom li{
+    float: left;padding: 4px;width: 150px;height: 120px;position: relative
+}
+#more_recom .about{
+    width: 150px;position: absolute;left: 4px;top: 4px;z-index:100;background:  rgba(0,0,0,0.6);height: 80px;padding-top: 40px;text-align: center;font-size: 12px;font-weight: 600;display: none;color: white
+}
+#more_recom span{
+    width: 150px;display: block;font-size: 12px
+    height: 14px;text-align: center;font-weight: 600;color: white
+}
+#more_s{
+    width: 482px;padding: 2px;margin-top: 14px;text-align: center;font-size: 14px;font-weight: bold
+}
+#con2{
+    width: 263px;height: 22px;margin: 0 auto;overflow: hidden;background: url(../images/title.gif) no-repeat left 0;margin-bottom: 39px;
+}
+#con3{
+    width: 1160px;height:480px;margin: 0 auto;overflow: hidden;
+}
+#con3_l{
+    display: block;width: 420px;height: 480px;float: left;
+}
+#con3_r{
+    width: 740px;height: 480px;float: left;
+}
+#con3_r li{
+    float: left;margin-left: 17px;width: 168px;height: 230px
+}
+#con3_r li img{
+    width: 168px;height: 230px;
+}
+#con3_r .con3_t{
+    margin-bottom: 20px
+}
+#con4{
+    width: 263px;height: 22px;margin: 99px auto 58px;overflow: hidden;background: url(../images/title.gif) no-repeat left -41px;
+}
+#con5{
+    width: 1158px;height: 1512px;margin: 0 auto;
+}
+#con5 li{
+    width: 240px;height: 504px;margin-right: 66px;float: left
+}
+#con5 .cloth_lis{
+    margin: 0;
+}
+.cloth_pic{
+    width: 240px;height: 330px;
+}
+.cloth_feel{
+    width: 240px;height: 40px;
+}
+.cloth_style{
+    width: 240px;height: 16px;color: #999999
+}
+.cloth_style a{
+    color: #999999;font-size: 12px
+}
+.cloth_type{
+    width: 240px;height: 25px;
+}
+.cloth_type a{
+	color:#480074;font-family: "微软雅黑""
+}
+.cloth_price{
+    width: 240px;height: 85px;
+}
+#con6{
+    width: 263px;height: 22px;margin: 33px auto 58px;overflow: hidden;background: url(../images/title.gif) no-repeat left -84px;
+}
+#con7{
+    width: 1158px;height: 5040px;margin: 0 auto;
+}
+#con7 li{
+    width: 240px;height: 504px;margin-right: 66px;float: left
+}
+#con7 .cloth_lis{
+    margin: 0;
+}
+#con8{
+    width: 263px;height: 22px;margin: 33px auto 58px;overflow: hidden;background: url(../images/title.gif) no-repeat left -126px;
+}
+#con9{
+    width: 1158px;height: 1512px;margin: 0 auto;
+}
+#con9 li{
+    width: 240px;height: 504px;margin-right: 66px;float: left
+}
+#con9 .cloth_lis{
+    margin: 0;
+}
+#con10{
+    width: 263px;height: 22px;margin: 33px auto 58px;overflow: hidden;background: url(../images/title.gif) no-repeat left -168px;
+}
+#con11{
+    width: 1158px;height: 1512px;margin: 0 auto;
+}
+#con11 li{
+    width: 240px;height: 504px;margin-right: 66px;float: left
+}
+#con11 .cloth_lis{
+    margin: 0;
+}
+
+/*底部的css*/

@@ -1,0 +1,239 @@
+*{
+    margin: 0;padding: 0;list-style: none;text-decoration: none;
+}
+#top_content,#nav,#banner,#content,#bottom{
+    width: 1185px;margin: 0 auto;
+} 
+/*头部css*/
+#fix_top{
+    position: fixed;right: 0;top: 0;
+    width: 40px;height: 115px;
+}
+#fix_content{
+    position: fixed;right: 0;top: 117px;width: 40px;height: 630px;background: #3F3F3F;
+}
+#points{
+    margin: 12px 0;
+}
+#weixin{
+    margin-top: 20px
+}
+#shop_car{
+    margin: 12px 0;
+}
+#login{
+    width:100%;height:100%;position: fixed;z-index: 100;background:  rgba(2,2,2,0.5);display: none;
+}
+
+#login_c{
+    width: 462px;background: white;margin: 120px auto;padding-top: 20px
+}
+
+#login_top{
+    width: 364px;height: 64px;border-radius: 32px;border: 1px solid #2B2B2B; margin: 0 auto;position: relative;
+}
+#login_1{
+    padding-bottom: 20px
+}
+#fast_login{
+    position: absolute;left: 6px;top: 6px ;display: block;width:180px;line-height: 52px;border-radius: 27px;background: #2B2B2B;color: white;font-size: 16px;font-family: "微软雅黑";text-align: center;
+}
+#fast_register{
+    position: absolute;right: 6px;top: 6px; display: block;width:180px;line-height: 52px;font-size: 16px;font-family: "微软雅黑";text-align: center;color: black;
+}
+#login_register{
+    margin: 54px auto 0;width: 360px;
+}
+#login_news{
+    width: 360px;height: 88px;
+}
+#login_l{
+    width: 270px;height: 88px;float: left;
+}
+#login_r{
+    width: 88px;height: 88px;float: left;
+}
+#txt{
+    width: 264px;height: 40px;border:1px solid #CCCCCC; padding-left: 4px;background: #EDEDED
+}
+#pas{
+    width: 264px;height: 40px;padding-left: 4px;margin-top: 4px;border:1px solid #CCCCCC;background: #EDEDED
+}
+#form_uper{
+    width: 358px;height: 14px;margin: 13px auto 0;
+}
+#uper_l{
+    line-height: 14px;float: left;color: #9C9C9C;font-size: 12px;
+}
+#cbx{
+    height: 13px;float: left;margin-top: 1px
+}
+#line_1{
+    width: 358px;height: 1px;background: #CCCCCC;margin: 20px auto 40px;
+}
+#friend_login{
+    width: 264px;height: 31px;margin: 0 auto;overflow: hidden
+}
+#friend_login div{
+    float: left;line-height: 30px;font-size: 12px;font-family: "微软雅黑"
+}
+#cooperation{
+    width: 148px;
+}
+#uper_r{
+    float: right;color: #9C9C9C;height: 14px;font-size: 11px;
+}
+#register_1{
+    width: 360px;height: 304px;
+}
+#register_news{
+    width: 356px;height: 184px;margin: 18px auto 0;
+}
+#reg_mail{
+   
+    width: 350px;height: 38px;border:1px solid #CCCCCC; padding-left: 4px;background: #EDEDED
+}
+.reg_password{
+    width: 356px;overflow: hidden;margin: 8px auto
+}
+.reg_pas,.reg_pas_more{
+    float: left;width: 171px;height: 38px;border:1px solid #CCCCCC; padding-left: 4px;background: #EDEDED
+}
+#sex{
+    float: left;width: 175px;height: 38px;border:1px solid #CCCCCC; padding-left: 4px;background: #EDEDED;margin-left: 2px
+}
+.reg_pas{
+    margin-right: 2px
+}
+#yzm_content{
+    width: 78px;height: 38px;border:1px solid #CCCCCC;float: left;margin-right: 8px;
+    text-align: center;line-height: 38px;
+}
+#reg_yzm{
+    width: 78px;height: 38px;border:1px solid #CCCCCC;float: left;padding-left: 4px;font-size: 14px;background: #EDEDED;
+}
+#rules{
+    width: 240px;height: 14px;margin: 20px auto 22px;
+}
+#rule_cbx{
+   height: 13px;float: left;margin-top: 1px 
+}
+#rule_content{
+    height: 14px;font-size: 12px;float: left
+}
+#new_user{
+    display: block;width: 356px;line-height: 44px;border: 2px solid #FF51A3;text-align: center;background: url(../images/new_user_backgound.gif)
+}
+#top{
+    width: 100%;height: 180px;
+}
+#top_content{
+    height: 180px;overflow: hidden
+}
+#top_left{
+    width: 423px;height: 180px;float: left;
+}
+#top_left img{
+    width: 370px;height: 100%;
+}
+#top_center{
+    width: 349px;height: 180px;float: left;background: url(../images/quxian.jpg) no-repeat left bottom;position: relative;
+}
+#chose{
+    position: absolute;left: 75px;bottom: 0;overflow: hidden
+}
+#chose li {
+    float: left;
+}
+#chose li a{
+    display: block;width: 100px;line-height: 55px;text-align: center;font-family: "微软雅黑";color: black;font-weight: 800
+}
+#red{
+    background: url(../images/top_down.gif) no-repeat center bottom;
+}
+#top_right{
+    width: 413px;height: 180px;float: left;
+}
+#top_right div{
+    float: left;height: 85px;padding-top: 95px;
+}
+#top_right img{
+    width: 100%;height: 85px;
+}
+#line_white{
+   width: 1185px;height: 2px;margin: 0 auto;
+}
+#line_w{
+    margin-left: 425px;height: 2px;background: white;width: 346px;
+}
+
+/*nav的css*/
+#nav{
+   height: 53px;
+}
+#nav_number{
+    width: 1063px;height: 53px;float: left
+}
+#hot_goods{
+    margin-top:4px;float: left;
+}
+#hot_goods li{
+    float: left;
+}
+#hot_goods a{
+    display: block;font-family: "微软雅黑";font-size: 14px;padding: 15px 8px;font-weight: 800
+}
+#cloth{
+    margin-top: 4px;float: left;
+}
+#cloth li{
+    float: left
+}
+#cloth a{
+    display: block;color: #686868;height: 14px; font-size: 14px;padding: 15px 8px;font-family: "微软雅黑"
+}
+#cloth .hot_g{
+    font-weight: 800;color: black
+}
+#summer a{
+    width: 51px;line-height: 48px;padding: 0 8px;height: 44px
+    
+}
+#recom{
+    width: 110px;height: 25px;margin-top: 20px;float: left;position: relative;
+}
+#recom a{
+    display: block; width: 110px;height: 16px;
+}
+#toTop{
+    width: 34px;height: 60px;margin: 0 auto;
+}
+#footer{
+    width:1160px ;height:220px ;background: url(../images/quality_guarantee.jpg) no-repeat left top;margin: 10px auto 20px;
+}
+
+
+#bottom{
+    height: 370px;
+}
+#tel{
+    width: 373px;height: 223px;padding: 47px 35px 40px;background: url(../images/tel.png) no-repeat 35px 47px;float: left;
+}
+#relax{
+    width: 286px;height: 29px;font-size: 11px;font-family: "微软雅黑";font-weight: 700;margin-top: 87px;margin-bottom: 25px;
+}
+#back_adr{
+    width: 314px;line-height: 11px;font-size: 11px;font-family: "微软雅黑";font-weight: 700;margin-bottom: 7px;
+}
+#back_mail{
+    width: 314px;line-height: 11px;font-size: 11px;font-family: "微软雅黑";font-weight: 700;margin-bottom: 23px;
+}
+#new_goods{
+    width: 310px;height: 30px;
+}
+#new_gNum{
+    float: left;width: 129px;line-height: 28px;border: 1px solid #CCCCCC;text-align: center;font-size: 11px;font-family: "微软雅黑";font-weight: 700;
+}
+#new_gHot{
+    float: left;width: 155px;line-height: 28px;border: 1px solid #CCCCCC;text-align: center;margin-left: 22px;font-family: "微软雅黑";font-weight: 700;font-size: 11px
+}

@@ -1,0 +1,98 @@
+{
+    "cloth": [
+
+        {
+            "url": "images/cloth1.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "选择不同颜色，打造不同风格",
+            "type": "High waist shorts",
+            "price": "152"
+        },
+
+        {
+            "url": "images/cloth2.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "6个颜色设计简约的罩衫产品",
+            "type": "High waist shorts",
+            "price": "132"
+        },
+
+        {
+            "url": "images/cloth3.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "修身版型，简约舒适的开叉亮点",
+            "type": "High waist shorts",
+            "price": "122"
+        },
+
+        {
+            "url": "images/cloth4.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "有一定的蓬松感，收腰显瘦的连衣裙",
+            "type": "High waist shorts",
+            "price": "154"
+        },
+        {
+            "url": "images/cloth5.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "选择不同颜色，打造不同风格",
+            "type": "High waist shorts",
+            "price": "161"
+        },
+
+        {
+            "url": "images/cloth6.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "6个颜色设计简约的罩衫产品",
+            "type": "High waist shorts",
+            "price": "155"
+        },
+
+        {
+            "url": "images/cloth7.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "修身版型，简约舒适的开叉亮点",
+            "type": "High waist shorts",
+            "price": "162"
+        },
+
+        {
+            "url": "images/cloth8.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "有一定的蓬松感，收腰显瘦的连衣裙",
+            "type": "High waist shorts",
+            "price": "166"
+        },
+        {
+            "url": "images/cloth5.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "选择不同颜色，打造不同风格",
+            "type": "High waist shorts",
+            "price": "161"
+        },
+
+        {
+            "url": "images/cloth3.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "6个颜色设计简约的罩衫产品",
+            "type": "High waist shorts",
+            "price": "155"
+        },
+
+        {
+            "url": "images/cloth1.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "修身版型，简约舒适的开叉亮点",
+            "type": "High waist shorts",
+            "price": "162"
+        },
+
+        {
+            "url": "images/cloth4.jpg",
+            "urls":"images/icon_new.gif",
+            "style": "有一定的蓬松感，收腰显瘦的连衣裙",
+            "type": "High waist shorts",
+            "price": "166"
+        }
+]
+}
